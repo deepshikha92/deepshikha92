@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello, I’m Deepshikha Bharti!
+🚀 PHP Developer | Frontend Enthusiast
+🎓 Passionate about crafting dynamic and user-friendly web applications.
 
-<!--
-**deepshikha92/deepshikha92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Skills:
 
-Here are some ideas to get you started:
+🔹 Frontend: HTML5, CSS3, JavaScript
+🔹 Backend: PHP, MySQL
+🔹 Tools & Frameworks: Bootstrap, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: Laravel, API Development
+✨ What I’m Working On: A custom CMS using PHP & MySQL
+📫 Let’s Connect! LinkedIn
+
+🌐 "Code is not just logic, it's creativity in action."
